@@ -7,6 +7,8 @@ I'm a Computer Science & Engineering student who loves to learn and experiment w
 🎯 Goals
 - Strengthen my coding skills  
 - Become an expert software engineer 
+- My aim is to become a professional developer 
+-  Always open to learn new technologies
 
 📫 Contact
 alimranhasanjibon06284@gmail.com
